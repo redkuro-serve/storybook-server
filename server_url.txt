@@ -1,1 +1,1 @@
-https://redkuro-serve.github.io/storybook-server/ServerData/[BuildTarget]
+https://whimsical-tulumba-8f540f.netlify.app
